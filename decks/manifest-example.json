@@ -1,0 +1,24 @@
+{
+  "_README": "To add a deck: copy an entry into manifest.json's decks[], upload its 6 PNGs under decks/<id>/, then bump the top-level version if you CHANGED any existing image. Brand-new decks appear without a version bump.",
+  "version": 2,
+  "decks": [
+    {
+      "id": "voyager",
+      "name": "Voyager",
+      "blurb": "Uncharted waters",
+      "premium": true,
+      "motif": "flag.fill",
+      "bgTop": "2A6E8C", "bgBottom": "123A52",
+      "backTop": "1E3A5F", "backBottom": "0E1F35", "border": "E8C56A",
+      "redSuit": "C8102E", "blackSuit": "000000",
+      "images": {
+        "table": "https://susanpikesquare.github.io/cassino-royale/decks/voyager/table.png",
+        "face":  "https://susanpikesquare.github.io/cassino-royale/decks/voyager/face.png",
+        "back":  "https://susanpikesquare.github.io/cassino-royale/decks/voyager/back.png",
+        "jack":  "https://susanpikesquare.github.io/cassino-royale/decks/voyager/jack.png",
+        "queen": "https://susanpikesquare.github.io/cassino-royale/decks/voyager/queen.png",
+        "king":  "https://susanpikesquare.github.io/cassino-royale/decks/voyager/king.png"
+      }
+    }
+  ]
+}
