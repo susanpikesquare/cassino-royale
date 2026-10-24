@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "decks": [
     {
       "id": "fall",
@@ -65,6 +65,28 @@
         "jack": "https://susanpikesquare.github.io/cassino-royale/decks/thanksgiving/jack.png",
         "queen": "https://susanpikesquare.github.io/cassino-royale/decks/thanksgiving/queen.png",
         "king": "https://susanpikesquare.github.io/cassino-royale/decks/thanksgiving/king.png"
+      }
+    },
+    {
+      "id": "blackfriday",
+      "name": "Black Friday",
+      "blurb": "Shop the deals!",
+      "premium": true,
+      "motif": "bag.fill",
+      "bgTop": "2A2A2E",
+      "bgBottom": "121214",
+      "backTop": "C01020",
+      "backBottom": "1A1A1E",
+      "border": "E0B24A",
+      "redSuit": "D01C2B",
+      "blackSuit": "1C1C22",
+      "images": {
+        "table": "https://susanpikesquare.github.io/cassino-royale/decks/blackfriday/table.png",
+        "face": "https://susanpikesquare.github.io/cassino-royale/decks/blackfriday/face.png",
+        "back": "https://susanpikesquare.github.io/cassino-royale/decks/blackfriday/back.png",
+        "jack": "https://susanpikesquare.github.io/cassino-royale/decks/blackfriday/jack.png",
+        "queen": "https://susanpikesquare.github.io/cassino-royale/decks/blackfriday/queen.png",
+        "king": "https://susanpikesquare.github.io/cassino-royale/decks/blackfriday/king.png"
       }
     }
   ]
