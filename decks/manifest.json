@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "decks": [
     {
       "id": "fall",
@@ -17,6 +17,24 @@
         "jack":  "https://susanpikesquare.github.io/cassino-royale/decks/fall/jack.png",
         "queen": "https://susanpikesquare.github.io/cassino-royale/decks/fall/queen.png",
         "king":  "https://susanpikesquare.github.io/cassino-royale/decks/fall/king.png"
+      }
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "blurb": "Trick or treat!",
+      "premium": true,
+      "motif": "moon.stars.fill",
+      "bgTop": "4A2A6E", "bgBottom": "2A1540",
+      "backTop": "5A2A7E", "backBottom": "2E1545", "border": "FF9A3D",
+      "redSuit": "FF8A2A", "blackSuit": "F2ECFB",
+      "images": {
+        "table": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/table.png",
+        "face":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/face.png",
+        "back":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/back.png",
+        "jack":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/jack.png",
+        "queen": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/queen.png",
+        "king":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/king.png"
       }
     }
   ]
