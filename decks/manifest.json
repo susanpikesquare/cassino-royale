@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "decks": [
     {
       "id": "fall",
@@ -7,16 +7,20 @@
       "blurb": "Falling leaves",
       "premium": true,
       "motif": "leaf.fill",
-      "bgTop": "C9792E", "bgBottom": "7A3A1E",
-      "backTop": "B5361C", "backBottom": "6E1E12", "border": "E0B24A",
-      "redSuit": "B23312", "blackSuit": "4A3418",
+      "bgTop": "C9792E",
+      "bgBottom": "7A3A1E",
+      "backTop": "B5361C",
+      "backBottom": "6E1E12",
+      "border": "E0B24A",
+      "redSuit": "B23312",
+      "blackSuit": "4A3418",
       "images": {
         "table": "https://susanpikesquare.github.io/cassino-royale/decks/fall/table.png",
-        "face":  "https://susanpikesquare.github.io/cassino-royale/decks/fall/face.png",
-        "back":  "https://susanpikesquare.github.io/cassino-royale/decks/fall/back.png",
-        "jack":  "https://susanpikesquare.github.io/cassino-royale/decks/fall/jack.png",
+        "face": "https://susanpikesquare.github.io/cassino-royale/decks/fall/face.png",
+        "back": "https://susanpikesquare.github.io/cassino-royale/decks/fall/back.png",
+        "jack": "https://susanpikesquare.github.io/cassino-royale/decks/fall/jack.png",
         "queen": "https://susanpikesquare.github.io/cassino-royale/decks/fall/queen.png",
-        "king":  "https://susanpikesquare.github.io/cassino-royale/decks/fall/king.png"
+        "king": "https://susanpikesquare.github.io/cassino-royale/decks/fall/king.png"
       }
     },
     {
@@ -25,16 +29,20 @@
       "blurb": "Trick or treat!",
       "premium": true,
       "motif": "moon.stars.fill",
-      "bgTop": "4A2A6E", "bgBottom": "2A1540",
-      "backTop": "5A2A7E", "backBottom": "2E1545", "border": "FF9A3D",
-      "redSuit": "FF8A2A", "blackSuit": "F2ECFB",
+      "bgTop": "4A2A6E",
+      "bgBottom": "2A1540",
+      "backTop": "5A2A7E",
+      "backBottom": "2E1545",
+      "border": "FF9A3D",
+      "redSuit": "D9541C",
+      "blackSuit": "3D1F66",
       "images": {
         "table": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/table.png",
-        "face":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/face.png",
-        "back":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/back.png",
-        "jack":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/jack.png",
+        "face": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/face.png",
+        "back": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/back.png",
+        "jack": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/jack.png",
         "queen": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/queen.png",
-        "king":  "https://susanpikesquare.github.io/cassino-royale/decks/halloween/king.png"
+        "king": "https://susanpikesquare.github.io/cassino-royale/decks/halloween/king.png"
       }
     }
   ]
