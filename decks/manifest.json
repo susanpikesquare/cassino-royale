@@ -1,6 +1,28 @@
 {
-  "version": 6,
+  "version": 7,
   "decks": [
+    {
+      "id": "undersea",
+      "name": "Under the Sea",
+      "blurb": "Dive in with the merfolk",
+      "premium": true,
+      "motif": "water.waves",
+      "bgTop": "4FB3CE",
+      "bgBottom": "1E6179",
+      "backTop": "2E8FB0",
+      "backBottom": "124055",
+      "border": "EBD9A0",
+      "redSuit": "C8402E",
+      "blackSuit": "1E3A5F",
+      "images": {
+        "table": "https://susanpikesquare.github.io/cassino-royale/decks/undersea/table.png",
+        "face": "https://susanpikesquare.github.io/cassino-royale/decks/undersea/face.png",
+        "back": "https://susanpikesquare.github.io/cassino-royale/decks/undersea/back.png",
+        "jack": "https://susanpikesquare.github.io/cassino-royale/decks/undersea/jack.png",
+        "queen": "https://susanpikesquare.github.io/cassino-royale/decks/undersea/queen.png",
+        "king": "https://susanpikesquare.github.io/cassino-royale/decks/undersea/king.png"
+      }
+    },
     {
       "id": "fall",
       "name": "Autumn",
