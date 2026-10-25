@@ -1,6 +1,28 @@
 {
-  "version": 7,
+  "version": 8,
   "decks": [
+    {
+      "id": "cats",
+      "name": "Cats",
+      "blurb": "Purr-fectly royal felines",
+      "premium": true,
+      "motif": "pawprint.fill",
+      "bgTop": "2BA6B8",
+      "bgBottom": "15707E",
+      "backTop": "2BA6B8",
+      "backBottom": "15707E",
+      "border": "E6C15C",
+      "redSuit": "C8341F",
+      "blackSuit": "223A40",
+      "images": {
+        "table": "https://susanpikesquare.github.io/cassino-royale/decks/cats/table.png",
+        "face": "https://susanpikesquare.github.io/cassino-royale/decks/cats/face.png",
+        "back": "https://susanpikesquare.github.io/cassino-royale/decks/cats/back.png",
+        "jack": "https://susanpikesquare.github.io/cassino-royale/decks/cats/jack.png",
+        "queen": "https://susanpikesquare.github.io/cassino-royale/decks/cats/queen.png",
+        "king": "https://susanpikesquare.github.io/cassino-royale/decks/cats/king.png"
+      }
+    },
     {
       "id": "undersea",
       "name": "Under the Sea",
