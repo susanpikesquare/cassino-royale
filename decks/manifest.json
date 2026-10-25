@@ -1,6 +1,28 @@
 {
-  "version": 8,
+  "version": 9,
   "decks": [
+    {
+      "id": "dogs",
+      "name": "Dogs",
+      "blurb": "Loyal royal pups",
+      "premium": true,
+      "motif": "pawprint.fill",
+      "bgTop": "2E6FD6",
+      "bgBottom": "16397A",
+      "backTop": "2E6FD6",
+      "backBottom": "16397A",
+      "border": "E6C15C",
+      "redSuit": "C8341F",
+      "blackSuit": "1E3A6E",
+      "images": {
+        "table": "https://susanpikesquare.github.io/cassino-royale/decks/dogs/table.png",
+        "face": "https://susanpikesquare.github.io/cassino-royale/decks/dogs/face.png",
+        "back": "https://susanpikesquare.github.io/cassino-royale/decks/dogs/back.png",
+        "jack": "https://susanpikesquare.github.io/cassino-royale/decks/dogs/jack.png",
+        "queen": "https://susanpikesquare.github.io/cassino-royale/decks/dogs/queen.png",
+        "king": "https://susanpikesquare.github.io/cassino-royale/decks/dogs/king.png"
+      }
+    },
     {
       "id": "cats",
       "name": "Cats",
